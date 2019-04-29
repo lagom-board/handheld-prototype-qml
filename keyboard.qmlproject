@@ -1,0 +1,15 @@
+import QmlProject 1.1
+
+Project {
+    mainFile: "keyboard.qml"
+
+    QmlFiles {
+        directory: "."
+    }
+    JavaScriptFiles {
+        directory: "."
+    }
+    ImageFiles {
+        directory: "."
+    }
+}
